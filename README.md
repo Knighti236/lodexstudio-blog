@@ -9,10 +9,11 @@ Here you will find the source code for all published articles and practical exam
 
 ## 🚀 Tecnologias
 
-- [Vite](https://vite.dev/)
-- [React](https://react.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [MDX](https://mdxjs.com/) (for articles with integrated code)
+- ⚛️ [React](https://react.dev/)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- ⚡ [Vite](https://vitejs.dev/)
+
+---
 
 ## 💻 How to run locally
 
