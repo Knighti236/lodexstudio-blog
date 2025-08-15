@@ -15,6 +15,20 @@ Here you will find the source code for all published articles and practical exam
 
 ---
 
+## 📂 Estrutura Básica
+<csharp>
+
+lodexstudio-blog/
+ ├── public/              # Arquivos estáticos
+ ├── src/
+ │   ├── components/       # Componentes reutilizáveis
+ │   ├── pages/            # Páginas do blog
+ │   ├── styles/           # Estilos globais
+ │   └── assets/           # Imagens e mídias
+ ├── package.json
+ └── README.md
+</csharp>
+
 ## 💻 How to run locally
 
 1. **Clone the repository**
@@ -62,3 +76,9 @@ Here you will find the source code for all published articles and practical exam
 ## 📄 Licence
 
 This project is licensed under the MIT License.
+
+## 🌐 About
+
+<blockquote>
+
+Created by [LØdeX Studio](https://lodexstudio.com) to share knowledge about UI/UX and frontend development in a practical and accessible way.</blockquote>
