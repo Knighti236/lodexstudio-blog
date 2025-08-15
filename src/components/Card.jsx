@@ -8,40 +8,24 @@ import { MdArrowOutward } from "react-icons/md";
 const cardData = [
   {
     img: imgCard,
-    title: "Título do Card",
+    title: "Launch your course with clarity and style",
     description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod voluptatibus maiores expedita atque veritatis accusantium architecto dolor dolores enim nihil molestias ad.",
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod voluptatibus maiores expedita atque veritatis accusantium architecto dolor dolores enim nihil molestias ad, assumenda, officia iste sapiente, eos cupiditate minima quaerat.",
     Badge: [
       {
         icon: <FaReact className="w-4 h-4" />,
         label: "React.js",
         link: "https://react.dev/",
       },
-    ],
-  },
-  {
-    img: imgCard,
-    title: "Título do Card",
-    description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod voluptatibus maiores expedita atque veritatis accusantium architecto dolor dolores enim nihil molestias ad.",
-    Badge: [
       {
-        icon: <FaReact className="w-4 h-4" />,
-        label: "React.js",
-        link: "https://react.dev/",
+        icon: <RiTailwindCssFill className="w-4 h-4" />,
+        label: "TailwindCSS",
+        link: "https://tailwindcss.com/",
       },
-    ],
-  },
-  {
-    img: imgCard,
-    title: "Título do Card",
-    description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod voluptatibus maiores expedita atque veritatis accusantium architecto dolor dolores enim nihil molestias ad.",
-    Badge: [
       {
-        icon: <FaReact className="w-4 h-4" />,
-        label: "React.js",
-        link: "https://react.dev/",
+        icon: <DiResponsive className="w-4 h-4" />,
+        label: "Responsive",
+        link: "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/CSS_layout/Responsive_Design",
       },
     ],
   }
@@ -103,7 +87,7 @@ function ExempleSection() {
               </div>
 
               {/* Card content */}
-              <div className="border-t border-[#EBEBEB] p-5 flex flex-col justify-between flex-1">
+              <div className="border-t border-[#EBEBEB] p-5 flex flex-col justify-between flex-1 itemce">
                 <div className="flex items-center gap-3 flex-wrap">
                   {card.Badge &&
                     card.Badge.map((badge, index) => (
