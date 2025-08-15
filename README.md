@@ -38,3 +38,26 @@ Here you will find the source code for all published articles and practical exam
 
 4. Open in your browser: http://localhost:3000
 
+## 🤝 How to collaborate
+
+1. Fork the repository.
+2. Create a branch for your change:
+```bash
+    git checkout -b my-feature
+```
+
+3. Commit the changes:
+```bash
+    git commit -m 'Add new feature'
+```
+
+4. Send to your fork::
+```bash
+    git push origin my-feature
+```
+
+5. Open a Pull Request for the main branch.
+
+## 📄 Licence
+
+This project is licensed under the MIT License.
