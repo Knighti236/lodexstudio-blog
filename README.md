@@ -19,12 +19,12 @@ Here you will find the source code for all published articles and practical exam
 
 ```plaintext
 lodexstudio-blog/
- ├── public/              # Arquivos estáticos
+ ├── public/              # Static files
  ├── src/
- │   ├── components/       # Componentes reutilizáveis
- │   ├── pages/            # Páginas do blog
- │   ├── styles/           # Estilos globais
- │   └── assets/           # Imagens e mídias
+ │   ├── components/       # Reusable components
+ │   ├── pages/            # Blog pages
+ │   ├── styles/           # Global styles
+ │   └── assets/           # Images and media
  ├── package.json
  └── README.md
 ```
