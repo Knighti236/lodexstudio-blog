@@ -77,7 +77,7 @@ lodexstudio-blog/
 
 ## 📄 Licence
 
-This project hvhjis licensed under the [MIT License](LICENSE).
+This project licensed under the [MIT License](LICENSE).
 
 ## 🌐 About
 
