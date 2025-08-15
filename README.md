@@ -16,8 +16,8 @@ Here you will find the source code for all published articles and practical exam
 ---
 
 ## 📂 Basic Structure
-<csharp>
 
+```
 lodexstudio-blog/
  ├── public/              # Arquivos estáticos
  ├── src/
@@ -27,7 +27,7 @@ lodexstudio-blog/
  │   └── assets/           # Imagens e mídias
  ├── package.json
  └── README.md
-</csharp>
+```
 
 ## 💻 How to run locally
 
