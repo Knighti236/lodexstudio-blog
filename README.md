@@ -15,7 +15,7 @@ Here you will find the source code for all published articles and practical exam
 
 ---
 
-## 📂 Estrutura Básica
+## 📂 Basic Structure
 <csharp>
 
 lodexstudio-blog/
@@ -54,7 +54,9 @@ lodexstudio-blog/
 4. Open in your browser: http://localhost:3000
 
 ## 🤝 How to collaborate
+> 💡 If you want to suggest a tutorial or correct an error, open an issue!
 
+#### Steps to contribute:
 1. Fork the repository.
 2. Create a branch for your change:
 ```bash
