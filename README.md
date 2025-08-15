@@ -77,7 +77,7 @@ lodexstudio-blog/
 
 ## 📄 Licence
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🌐 About
 
