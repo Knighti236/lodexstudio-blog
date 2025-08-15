@@ -6,7 +6,7 @@ function FooterSection() {
     <footer className="p-12 border-t">
       <GlobalContainer>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-          {/* links, contatos, social, etc */}
+          {/* links, contacts, social, etc. */}
         </div>
       </GlobalContainer>
     </footer>
