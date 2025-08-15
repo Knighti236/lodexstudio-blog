@@ -17,7 +17,7 @@ Here you will find the source code for all published articles and practical exam
 
 ## 📂 Basic Structure
 
-```
+```plaintext
 lodexstudio-blog/
  ├── public/              # Arquivos estáticos
  ├── src/
